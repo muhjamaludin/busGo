@@ -1,0 +1,44 @@
+.searchbar {
+    position: relative;  
+}
+.searchbar i {
+    position: absolute;
+    left: 10px;
+    top: 2px;
+    font-size: 24px;
+    color: darkkhaki;
+    border-right: 1px solid black;
+    padding: 1px 5px;
+}
+.searchbar input {
+    padding: 0 50px !important;
+    border: 2px solid blue !important;
+}
+.buttonDelete {
+    border: none;
+    outline: none;
+    background: none;
+    margin-left: 25px;
+    color: darkred;
+}
+.buttonEdit {
+    color: lightskyblue;
+}
+
+.buttonAdd {
+  color: white !important;
+  text-transform: uppercase !important;
+  width: 150px;
+  line-height: 20px;
+  border-radius: 5px !important;
+  margin-left: 20px;
+  background: #00B000 !important;
+  text-align: center !important;
+  box-shadow: inset 0 0 25px rgba(0,0,0,.25) !important;
+  position: relative;
+  left: 90px;
+}
+
+.priceSort {
+    cursor: pointer;
+}

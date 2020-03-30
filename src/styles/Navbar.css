@@ -1,0 +1,30 @@
+.NavbarMenuBus {
+    color: darkorange !important;
+}
+.NavbarMenuRoute {
+    color: darkorchid !important;
+}
+.NavbarMenuSchedule {
+    color: darkgreen !important;
+    text-shadow: darkslategrey;
+    font-weight: 500;
+}
+.NavbarMenuPrice {
+    color: darkkhaki !important;
+    text-shadow: saddlebrown;
+    font-weight: 900;
+}
+.NavbarMenuUsers {
+    color: darkcyan !important;
+}
+
+.foter {
+    position: absolute;
+    bottom: 0;
+    background-color: rgb(238, 48, 86);
+    height: 25px;
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+}
